@@ -12,6 +12,7 @@ jna.jar                     windows lib connector
 junique-1.0.2.jar           ...
 jxl.jar                     excel connector
 mail-1.4.5.jar              mail connector
+ojdbc6.jar                  oracle connector
 rcmd.exe                    ...
 win32com.dll                comm connector etc
 --eof--
